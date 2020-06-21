@@ -1,0 +1,2 @@
+# gittry
+始めてのGithub
